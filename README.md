@@ -24,3 +24,10 @@ http://t.me/MCforARTBot
 Google Sheets:
 https://docs.google.com/spreadsheets/d/1q8PB-CmgErtVA2B1nHaD_TKuaEtvYOZLm9lv_FvaLts/edit?usp=sharing
 <br>
+
+<h2>Contents of Github Repo </h2>
+dataset.zip: Zipped file of raw and postprocessed data.<br>
+dataset_augmentation.ipynb: Method of postprocessing data. <br>
+main_files.zip: Zipped file of CNN model building and testing.<br>
+open_img.py: Script for opening images from Google Sheets.<br>
+telegram_bot.js: Bot on Telegram Application, built with React and functions. <br>
